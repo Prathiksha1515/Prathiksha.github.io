@@ -1,1 +1,1 @@
-# Prathiksha.github.io
+Simple webpage created using basic html and css
